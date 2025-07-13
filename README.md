@@ -1,8 +1,5 @@
-
-====================================================================
-            # STOCK PRICE PREDICTION USING COLLECTIVE NSE DATASET    
-====================================================================
-
+# STOCK PRICE PREDICTION USING COLLECTIVE NSE DATASET   
+--------------------------------------------------------------------
 📅 Dataset Duration  :  02-Jan-1991 to 05-Jul-2024  
 📊 Data Source       :  Consolidated NSE Historical Stock Prices  
 📌 Project Type      :  Time Series Forecasting with User Input  
