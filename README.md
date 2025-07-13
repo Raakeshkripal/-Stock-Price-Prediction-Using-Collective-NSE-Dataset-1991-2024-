@@ -1,9 +1,9 @@
 # STOCK PRICE PREDICTION USING COLLECTIVE NSE DATASET   
 --------------------------------------------------------------------
-📅 Dataset Duration  :  02-Jan-1991 to 05-Jul-2024  
-📊 Data Source       :  Consolidated NSE Historical Stock Prices  
-📌 Project Type      :  Time Series Forecasting with User Input  
-🧠 Libraries Used    :  Python, Pandas, NumPy, Scikit-learn, Matplotlib  
+Dataset Duration  :  02-Jan-1991 to 05-Jul-2024  
+Data Source       :  Consolidated NSE Historical Stock Prices  
+Project Type      :  Time Series Forecasting with User Input  
+Libraries Used    :  Python, Pandas, NumPy, Scikit-learn, Matplotlib  
 
 --------------------------------------------------------------------
 📁 PROJECT DESCRIPTION
@@ -43,7 +43,7 @@ data based on USER INPUT, making it more SCALABLE and EFFICIENT.
 --------------------------------------------------------------------
 
 - Stock_Price_prediction__Collective_Dataset.ipynb   # Main notebook
-- collective_nse_data.csv                            # Full dataset (not included here)
+- nse_all_stock_data(1).csv                            # Full dataset (not included here)
 - README.txt                                          # Project overview
 
 --------------------------------------------------------------------
@@ -51,23 +51,13 @@ data based on USER INPUT, making it more SCALABLE and EFFICIENT.
 --------------------------------------------------------------------
 
 - Develop a web app using Flask/Django for user interaction  
-- Integrate with live stock APIs (e.g., Alpha Vantage, Yahoo Finance)  
+- Integrate with live stock APIs   
 - Include sentiment analysis from financial news or tweets  
-- Save trained models using joblib/pickle for faster deployment  
 - Add comparative performance between stocks over time  
-
---------------------------------------------------------------------
-📃 LICENSE
---------------------------------------------------------------------
-
-Apache License 2.0  
-You are free to use, modify, and distribute this project with 
-proper attribution.
 
 --------------------------------------------------------------------
 👤 AUTHOR
 --------------------------------------------------------------------
 
 Raakesh Kripal VUK  
-Project Title : Stock Price Prediction from Collective Dataset  
-Date         : July 2024  
+contact: raakeshkripal.vuk@gmail.com
